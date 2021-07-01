@@ -5,7 +5,7 @@ It's my final tools 😀
 
 ```
 
-- ClICK ON install.bat for install all module
+- CLICK ON install.bat for install all module
 
 -Create in a folder a file nammed tokens.txt (for token checkeur)
 

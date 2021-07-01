@@ -20,7 +20,7 @@ def intro():
    ██║   ╚██████╔╝╚██████╔╝███████╗███████║
    ╚═╝    ╚═════╝  ╚═════╝ ╚══════╝╚══════╝
                                            """ + Style.RESET_ALL)
-    print(Fore.MAGENTA +"\n\nCreate by Zerfox | My github is https://github.com/pommepoirechocolat  | BETA\n\n" + Style.RESET_ALL)
+    print(Fore.MAGENTA +"\n\nCreate by Zerfox | My github is https://github.com/pommepoirechocolat  my discord: https://discord.gg/Geqyq3AWP3\n\n" + Style.RESET_ALL)
     x = input("[1] Discord  [2]autre \n\n choisie un nombres:  ")
 
     if x == '1':
